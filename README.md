@@ -101,6 +101,7 @@ Role: Cybersecurity Lead — Project Sentinel (DNSSEC domain trust verification 
   <li>RDAP</li>
   <li>Git & GitHub</li>
   <li>Linux & Windows Security Controls</li>
+  <li>openSSL encryption </li>
 </ul>
 
 <hr />
