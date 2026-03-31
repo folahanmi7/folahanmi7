@@ -1,6 +1,6 @@
 <h1>Hello World 👋🏾</h1>
 
-<h1>Welcome to Abdul Samad Imoru’s Cybersecurity Lab 🛡️</h1>
+<h1>Welcome to Abdul Samad Imoru’s Cybersecurity Lab </h1>
 
 <h3>Cybersecurity Analyst | Systems Engineering Student | Network, Cloud & Application Security</h3>
 
@@ -21,8 +21,8 @@ and <strong>system layers</strong>.
 <h3>🏆 Highlight Achievement</h3>
 
 <p>
-🥈 <strong>2nd Place — NKF NiRA-XT Hackathon II</strong><br/>
-Role: Cybersecurity Lead — <strong>Sentinel</strong> (DNSSEC Domain Trust & Cybersecurity Platform)
+🥈 <strong>2nd Place - NKF NiRA-XT Hackathon II</strong><br/>
+Role: Cybersecurity Lead - <strong>Sentinel</strong> (DNSSEC Domain Trust & Cybersecurity Platform)
 </p>
 
 <hr />
@@ -58,8 +58,8 @@ Role: Cybersecurity Lead — <strong>Sentinel</strong> (DNSSEC Domain Trust & Cy
 <ul>
 
   <li>
-    <strong>Sentinel X — Digital Trust & Active Defense Platform</strong><br/>
-    Cybersecurity Lead — Hackathon Project<br/>
+    <strong>Sentinel X - Digital Trust & Active Defense Platform</strong><br/>
+    Cybersecurity Lead - Hackathon Project<br/>
     Designed DNSSEC + RDAP verification logic, domain trust classification,
     and security architecture for a system that detects phishing, verifies domains,
     and protects users through intelligent cybersecurity mechanisms.
@@ -68,7 +68,7 @@ Role: Cybersecurity Lead — <strong>Sentinel</strong> (DNSSEC Domain Trust & Cy
   <br/>
 
   <li>
-    <strong>TrustPay — Secure Escrow & Fraud Detection System</strong><br/>
+    <strong>TrustPay - Secure Escrow & Fraud Detection System</strong><br/>
     Cybersecurity Engineer<br/>
     Built a security validation layer for an escrow-based transaction system,
     including a risk scoring engine, fraud detection logic, and transaction integrity enforcement
