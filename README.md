@@ -18,7 +18,7 @@ and <strong>system layers</strong>.
 
 <hr />
 
-<h3>🏆 Highlight Achievement</h3>
+<h3>Highlight Achievement</h3>
 
 <p>
 🥈 <strong>2nd Place - NKF NiRA-XT Hackathon II</strong><br/>
@@ -38,7 +38,7 @@ Role: Cybersecurity Lead - <strong>Sentinel</strong> (DNSSEC Domain Trust & Cybe
 
 <hr />
 
-<h3>🛡️ Cybersecurity Focus Areas</h3>
+<h3>Cybersecurity Focus Areas</h3>
 
 <ul>
   <li>Network Security & Traffic Analysis</li>
@@ -53,7 +53,7 @@ Role: Cybersecurity Lead - <strong>Sentinel</strong> (DNSSEC Domain Trust & Cybe
 
 <hr />
 
-<h3>🧪 Security Projects</h3>
+<h3>Security Projects</h3>
 
 <ul>
 
@@ -120,7 +120,7 @@ Role: Cybersecurity Lead - <strong>Sentinel</strong> (DNSSEC Domain Trust & Cybe
 
 <hr />
 
-<h3>🎓 Certifications & Training</h3>
+<h3>Certifications & Training</h3>
 
 <ul>
   <li>IBM Cybersecurity SkillBadges (Cloud, Network, IR, Threat Intelligence, Encryption, Governance & Risk)</li>
@@ -131,7 +131,7 @@ Role: Cybersecurity Lead - <strong>Sentinel</strong> (DNSSEC Domain Trust & Cybe
 
 <hr />
 
-<h3>🛠️ Tools & Technologies</h3>
+<h3>Tools & Technologies</h3>
 
 <ul>
   <li>Python (Intermediate)</li>
@@ -148,7 +148,7 @@ Role: Cybersecurity Lead - <strong>Sentinel</strong> (DNSSEC Domain Trust & Cybe
 
 <hr />
 
-<h3>🎯 Current Goals</h3>
+<h3>Current Goals</h3>
 
 <ul>
   <li>Secure a cybersecurity internship (Network / Security Engineering)</li>
